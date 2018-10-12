@@ -1,4 +1,3 @@
 # Bleh
-*itallics
 ## bold
 hello
